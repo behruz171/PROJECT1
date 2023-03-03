@@ -1,0 +1,49 @@
+
+h1{
+display: flex;
+justify-content: center;
+margin-bottom: 70px;
+}
+
+.text1{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    color: blue;
+    margin-bottom: 10px;
+}
+
+.text2{
+    display: flex;
+    justify-content: center;
+}
+
+.text4{
+    margin: 0 30px;
+}
+
+h5{
+    display: flex;
+    justify-content: center;
+    color: gray;
+}
+
+h3{
+    text-align: center;
+}
+
+.text3:hover{
+    box-shadow: 0px 10px 20px 0px rgba(128, 128, 128, 0.229); 
+}
+
+.text4:hover{
+    box-shadow: 0px 10px 20px 0px rgba(128, 128, 128, 0.229);
+}
+
+.text5:hover{
+    box-shadow: 0px 10px 20px 0px rgba(128, 128, 128, 0.358);
+}
+
+.card:hover  h3{
+    color: blue;
+}
